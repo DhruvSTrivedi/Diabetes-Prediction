@@ -26,12 +26,12 @@ The motivation behind this project was to:
   * **Age** - Patient's age in years
 * The target variable (Outcome) indicates the presence (1) or absence (0) of diabetes.
 
-## <div align="center">Exploratory Data Analysis (EDA)</div>
+## Exploratory Data Analysis (EDA)
+
 To gain deeper insights into the dataset, an interactive **Streamlit dashboard** has been created.
 
-<div align="center">
-    👉 [**Diabetes Dashboard**](https://diabetes-dashboard-84b6cpt5nfnstq4fnk3opf.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,disable_scrolling,show_padding,show_footer,dark_theme) 👈
-</div>
+👉 [**Diabetes Dashboard**](https://diabetes-dashboard-84b6cpt5nfnstq4fnk3opf.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,disable_scrolling,show_padding,show_footer,dark_theme) 👈
+
 
 
 ## <div align="center">Models Implemented</div>
