@@ -26,7 +26,7 @@ The motivation behind this project was to:
   * **Age** - Patient's age in years
 * The target variable (Outcome) indicates the presence (1) or absence (0) of diabetes.
 
-## Exploratory Data Analysis (EDA)
+## <div align="center">Exploratory Data Analysis (EDA)</div>
 
 To gain deeper insights into the dataset, an interactive **Streamlit dashboard** has been created.
 
@@ -98,7 +98,7 @@ Finally, we combined the best models using stacking ensemble learning.
 ## <div align="center">How to Run the Project</div>
 ### <div align="center">1. Clone the Repository</div>
 ```bash
-git clone https://github.com/yourusername/diabetes-stacking-model.git
+git clone https://github.com/DhruvSTrivedi/diabetes-stacking-model.git
 cd diabetes-stacking-model
 ```
 
@@ -122,5 +122,5 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 This project is open-source and available under the MIT License.
 
 ## <div align="center">Contact</div>
-For any questions or discussions, feel free to open an issue or reach out to me via GitHub Discussions.
+For any questions or discussions, feel free to open an issue or reach out to me via Email.
 
