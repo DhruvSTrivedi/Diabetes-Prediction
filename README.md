@@ -98,7 +98,7 @@ Finally, we combined the best models using stacking ensemble learning.
 ## <div align="center">How to Run the Project</div>
 ### <div align="center">1. Clone the Repository</div>
 ```bash
-git clone https://github.com/DhruvSTrivedi/diabetes-stacking-model.git
+git clone https://github.com/DhruvSTrivedi/Diabetes-Prediction.git
 cd diabetes-stacking-model
 ```
 
