@@ -30,7 +30,7 @@ The motivation behind this project was to:
 To gain deeper insights into the dataset, an interactive **Streamlit dashboard** has been created.
 
 ### <div align="center">Explore the EDA Dashboard</div>
-[Diabetes Dashboard](https://diabetes-dashboard-84b6cpt5nfnstq4fnk3opf.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,disable_scrolling,show_padding,show_footer,dark_theme)
+<div align="center">[Diabetes Dashboard](https://diabetes-dashboard-84b6cpt5nfnstq4fnk3opf.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,disable_scrolling,show_padding,show_footer,dark_theme)</div>
 
 ## <div align="center">Models Implemented</div>
 We implemented multiple models to evaluate performance:
